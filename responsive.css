@@ -1,0 +1,9 @@
+@media (min-width: 768px){
+    .main{
+        width: 730px;
+        margin: 0 auto;
+    }
+    .post{
+        font-size: 1em;
+    }
+}
